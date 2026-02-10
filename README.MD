@@ -1,16 +1,16 @@
 # University Computer Science Projects
 
-This repository contains academic projects developed during the **first year of my Computer Science degree**. The projects focus on building a strong foundation in programming, problem solving, and software fundamentals.
+This repository contains **academic projects developed throughout my Computer Science degree**. It serves as a central place to organize and document my progress across different courses, semesters, and topics.
 
-All projects were created as part of university coursework and practical exercises, with an emphasis on writing clear, structured, and efficient code.
+The projects included here focus on building a strong foundation in programming, problem solving, and software fundamentals, evolving in complexity as my academic journey advances.
 
 ---
 
 ## 🧠 Topics Covered
 - Programming fundamentals  
-- Algorithms and basic data structures  
-- Logical thinking and problem solving  
-- Structured programming in C and C++  
+- Algorithms and data structures  
+- Problem solving and logical thinking  
+- Software development concepts  
 
 ---
 
@@ -21,20 +21,23 @@ All projects were created as part of university coursework and practical exercis
 
 ---
 
-## 📂 Projects
-Each file in this repository represents an individual academic project or exercise developed during the first year of the program.
+## 📂 Repository Structure
+Projects may be organized by:
+- Course or subject  
+- Semester or academic year  
+- Topic or programming concept  
 
-Examples include:
-- Basic management systems  
-- Logic-based games and simulations  
-- Data handling and control structures  
+Each project includes source code and, when applicable, additional documentation.
 
 ---
 
 ## 🎯 Purpose
-The main goal of this repository is to document my academic progress and demonstrate my learning journey throughout the first year of Computer Science.
+The goal of this repository is to:
+- Track my academic progress throughout the degree  
+- Apply theoretical knowledge in practical projects  
+- Build a portfolio of university-level work  
 
 ---
 
 ## 📌 Notes
-These projects are educational and reflect my learning stage at the time they were developed. Future improvements and refactoring may be applied as my skills evolve.
+These projects are academic and represent my learning process at different stages of the program. Code quality, structure, and complexity may vary as my skills develop over time.
